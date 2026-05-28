@@ -36,7 +36,7 @@ python customer_analysis.py
 
 ## Output Files
 ```
-customer_analysis_charts.png   ← 6 visualisation charts
+CUSTOMER PURCHASE BEHAVIOR.ipynb  ← 6 visualisation charts
 rfm_segments_output.csv        ← customer segment assignments
 ```
 
