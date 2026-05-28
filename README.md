@@ -21,7 +21,7 @@ python customer_analysis.py
 2. **EDA** — summary stats, revenue by country, top products
 3. **Repeat Customer Analysis** — one-time vs repeat buyers
 4. **RFM Segmentation** — classifies customers into 4 segments using Recency, Frequency, Monetary scoring
-5. **Visualisations** — 6 charts saved as PNG
+5. **Visualisations** — 6 charts 
 6. **Export** — saves RFM segment output as CSV
 
 
